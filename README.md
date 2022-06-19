@@ -10,7 +10,7 @@ $ cd ../path/to/the/file/OpenFoodFacts___API
 
 ```
 ### Code en fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/food)
+[Live Code](#)
 
 ## // English
 
@@ -23,4 +23,4 @@ $ cd ../path/to/the/file/OpenFoodFacts___API
 ```
 
 ### Code in fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/food)
+[Live Code](#)
